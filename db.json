@@ -1,9 +1,10 @@
 {
-  "info": {
-    "data": {
+  "info": [
+    {
+      "id": 1,
       "test": 1,
       "status": "OK",
       "timestamp": "2025-09-17T10:30:00Z"
     }
-  }
+  ]
 }
