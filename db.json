@@ -1,3 +1,6 @@
 {
-  "health":{}
+  "health":{
+    "data":{
+      "test": 1
+  }
 }
